@@ -28,6 +28,15 @@ Public Sub Update()
     
     Page.DrawImage "LOGO.png", GW / 2, GH / 2, alpha:=Abs((GetTickCount Mod 3000) / 1500 - 1), pos:=posOnCenter
     
+    Page.Writes "> 关于 <", GW - 140, 20, 24, argb(255, 255, 255, 255), 120, 40, StringAlignmentCenter
+    If CheckMouse2 = mMouseUp Then
+        ECore.SimpleMsg "Error 404,喜欢把BUG写出艺术的智障BUG专家。" & vbCrLf & "2019级垃圾苦逼高一学生，现已转C# Unity。" & vbCrLf & vbCrLf & "该游戏属于2017年的早期作品“校园惊魂”的复刻" & vbCrLf & "使用了最新的开源项目Emerald进行重置" & vbCrLf & vbCrLf & "Github: https://github.com/buger404", "关于", StrArray("好")
+        Mouse.State = 0: Mouse.button = 0
+        Exit Sub
+    End If
+    
+    Page.Writes "该游戏由Error404 2017年的“校园惊魂”游戏使用Emerald重置", GW / 2, GH - 50, 18, argb(255, 255, 255, 255), align:=StringAlignmentCenter
+    
     If CheckMouse(0, 0, GW, GH) = mMouseUp Then
         ECore.NewTransform transFallDark, , "GamePage"
         CGamePage.LoadEvent 0

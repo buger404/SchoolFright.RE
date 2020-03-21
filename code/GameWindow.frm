@@ -8,6 +8,7 @@ Begin VB.Form GameWindow
    ClientLeft      =   48
    ClientTop       =   396
    ClientWidth     =   9660
+   Icon            =   "GameWindow.frx":0000
    LinkTopic       =   "Form1"
    MaxButton       =   0   'False
    MinButton       =   0   'False
@@ -97,7 +98,6 @@ End Sub
 Private Sub Form_Unload(Cancel As Integer)
     EndMark = True
     '终止绘制
-    DrawTimer.Enabled = False
     '释放Emerald资源
     EndEmerald
     End

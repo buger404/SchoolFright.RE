@@ -41,6 +41,7 @@ Public Sub Choice(index As Integer)
         Passage = Params(1)
         ReDim Btn(0)
         RunStoryMovie App.path & "\assets\animator\Event" & TimeLine & "-" & index + 1 & ".txt"
+        DisableUI = True
         FakeWait 1000
         ReDim Imgs(0)
         MusicList.Play "GameOver.wav"
@@ -122,11 +123,11 @@ Public Sub ExecCode(ByVal Code As String)
                         Set p = CreateObject("MSScriptControl.ScriptControl")
                         p.language = "VBScript"
                         .X = p.Eval(e(2)): .y = p.Eval(e(3)): fi = GetTickCount
-                        .X = .X / 10515 * GW: .y = .y / 6195 * GH
+                        .X = .X / 10515 * 1166: .y = .y / 6195 * 777
                         Page.Res.newImage App.path & "\assets\story\" & .Name, .X, .y, fi & ".png"
                         .Name = fi & ".png"
                         .X = p.Eval(e(0)): .y = p.Eval(e(1))
-                        .X = .X / 10515 * GW: .y = .y / 6195 * GH
+                        .X = .X / 10515 * 1166: .y = .y / 6195 * 777
                         Set p = Nothing
                     End If
                     Select Case Params(1)
