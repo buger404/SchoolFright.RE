@@ -1,0 +1,7 @@
+Load Black|1|Screen,Screen,0,0;正常
+Play Read4.mp3
+Play Read4.mp3
+Play Read4.mp3
+Play Open.wav
+Load White|1|Screen,Screen,0,0;正常
+Wait 80

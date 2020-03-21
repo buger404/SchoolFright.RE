@@ -1,0 +1,15 @@
+Load School|1|Screen,Screen,0,0;正常
+Load Black|1|Screen,Screen,0,0;淡入
+Play grass3.wav
+Play grass5.wav
+Play grass2.wav
+Load Dooroom|1|Screen,Screen,0,0;淡入
+Load Black|1|Screen,Screen,0,0;淡入
+Play grass1.wav
+Play grass3.wav
+Load Phone|1|Screen,Screen,0,0;淡入
+Play Call.wav
+Play Audio.wav
+Play Audio.wav
+Play Audio.wav
+PlayB DoorMan.mp3

@@ -1,0 +1,10 @@
+Load Black|1|Screen,Screen,0,0;Õý³£
+Play stone2.wav
+Play stone6.wav
+Play stone1.wav
+Wait 2000
+Play chuan.wav
+Play stone3.wav
+Wait 1000
+Play stone4.wav
+Play ghost.wav

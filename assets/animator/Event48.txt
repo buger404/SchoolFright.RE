@@ -1,0 +1,4 @@
+Load School|1|Screen,Screen,0,0;正常
+Load ghost|1|#Width/3,#Height,#Width/2,0;正常
+Play Take.wav
+Load duola|1|3000,1500,#Width/2-5000,#Height/2;正常

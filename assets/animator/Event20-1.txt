@@ -1,0 +1,2 @@
+Load Black|1|Screen,Screen,0,0;正常
+Load Face|1|Screen,Screen,0,0;正常

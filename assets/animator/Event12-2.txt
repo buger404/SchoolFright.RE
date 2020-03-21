@@ -1,0 +1,4 @@
+Load Black|1|Screen,Screen,0,0;正常
+Load Classroom|1|Screen,Screen,0,0;淡入
+Load Black|1|Screen,Screen,0,0;正常
+Play ghost.wav

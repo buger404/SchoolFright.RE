@@ -1,0 +1,2 @@
+Load Black|1|Screen,Screen,0,0;Õý³£
+Play Happy.wav

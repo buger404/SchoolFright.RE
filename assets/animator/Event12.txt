@@ -1,0 +1,5 @@
+Load 73sign|1|Screen,Screen,0,0;正常
+Load Black|1|Screen,Screen,0,0;淡入
+Load White|1|Screen,Screen,0,0;正常
+Wait 10
+Load Black|1|Screen,Screen,0,0;正常

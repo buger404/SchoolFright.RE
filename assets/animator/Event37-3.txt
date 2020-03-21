@@ -1,0 +1,15 @@
+Load Black|1|Screen,Screen,0,0;正常
+Play stone1.wav
+Play Take.wav
+Play stone3.wav
+Wait 500
+Play stone4.wav
+Play Take.wav
+Play stone2.wav
+Wait 500
+Play stone5.wav
+Play Take.wav
+Play stone3.wav
+Wait 500
+Load White|1|Screen,Screen,0,0;正常
+Wait 80

@@ -1,0 +1,4 @@
+Load Black|1|Screen,Screen,0,0;正常
+Wait 1000
+Load hair|1|Screen,Screen,0,0;正常
+Play Happy.wav

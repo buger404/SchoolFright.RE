@@ -1,0 +1,14 @@
+Load Black|1|Screen,Screen,0,0;Õý³£
+Play stone2.wav
+Play stone3.wav
+Play stone5.wav
+Play stone6.wav
+Play stone1.wav
+Play stone4.wav
+Play stone3.wav
+Play stone5.wav
+Play stone6.wav
+Play stone2.wav
+Play Read1.mp3
+Wait 3000
+Play Read2.mp3

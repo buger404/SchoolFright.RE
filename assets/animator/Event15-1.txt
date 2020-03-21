@@ -1,0 +1,6 @@
+Load room|1|Screen,Screen,0,0;正常
+Load black|1|Screen,Screen,0,0;淡入
+Play Book.wav
+Load book|1|Screen,Screen,0,0;淡入
+Play chuan.wav
+Play Fire.wav

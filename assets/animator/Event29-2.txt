@@ -1,0 +1,6 @@
+Load windows7|1|Screen,Screen,0,0;正常
+Load MidFace|1|3000,2000,#Width/2,#Height/2;正常
+Wait 500
+Load classroom2-boom|1|Screen,Screen,0,0;正常
+Play Powerup.wav
+Load Black|1|Screen,Screen,0,0;淡入

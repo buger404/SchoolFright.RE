@@ -1,0 +1,2 @@
+Load Event1Back|1|Screen,Screen,0,0;µ≠»Î
+Play wolf.wav

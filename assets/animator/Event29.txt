@@ -1,0 +1,5 @@
+Load classroom2|1|Screen,Screen,0,0;正常
+Load windows7start|1|Screen,Screen,0,0;淡入
+Wait 10000
+Load windows7|1|Screen,Screen,0,0;淡入
+Play Windows7.wav

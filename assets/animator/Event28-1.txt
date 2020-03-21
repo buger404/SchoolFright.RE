@@ -1,0 +1,6 @@
+Load classroom2|1|Screen,Screen,0,0;正常
+Play stone1.wav
+Load Black|1|Screen,Screen,0,0;淡出
+Play stone4.wav
+Load MidFace|1|Screen,Screen,0,0;淡出
+Play ghost.wav

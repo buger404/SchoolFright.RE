@@ -1,0 +1,4 @@
+Load classroom2|1|Screen,Screen,0,0;Õý³£
+Play Open.wav
+Wait 1000
+PlayB Backround.mp3

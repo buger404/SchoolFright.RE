@@ -1,0 +1,2 @@
+Load Classroom|1|Screen,Screen,0,0;Õı³£
+Load 75sign|1|Screen,Screen,0,0;µ­Èë

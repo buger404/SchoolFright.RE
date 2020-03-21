@@ -1,0 +1,3 @@
+Load Black|1|Screen,Screen,0,0;正常
+Load room|1|Screen,Screen,0,0;正常
+Exit 2;淡出

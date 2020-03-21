@@ -1,0 +1,4 @@
+Load SchoolGate|1|Screen,Screen,0,0;正常
+Wait 1000
+Load ghost|1|#Width/3,#Height,#Width/2,0;正常
+Play ghost.wav

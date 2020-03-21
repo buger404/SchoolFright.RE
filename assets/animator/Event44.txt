@@ -1,0 +1,9 @@
+Load SchoolGate|1|Screen,Screen,0,0;正常
+Load Black|1|Screen,Screen,0,0;淡入
+Play stone4.wav
+Play stone5.wav
+Play stone3.wav
+Play stone6.wav
+Play stone1.wav
+Load Last|1|Screen,Screen,0,0;淡入
+Play Read3.mp3

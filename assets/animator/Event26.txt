@@ -1,0 +1,17 @@
+Load click|1|Screen,Screen,0,0;正常
+Load classroom2|1|Screen,Screen,0,0;淡入
+Play Close.wav
+Wait 1000
+Play ghost.wav
+Exit 1;正常
+Exit 2;正常
+Load Black|1|Screen,Screen,0,0;正常
+Load Window|1|Screen,Screen,0,0;正常
+Wait 1000
+Load White|1|Screen,Screen,0,0;正常
+Wait 100
+Exit 5;正常
+Wait 3000
+Exit 4;正常
+Load MidFace|1|3000,2000,#Width/2,#Height/2;正常
+Load Window|1|Screen,Screen,0,0;正常

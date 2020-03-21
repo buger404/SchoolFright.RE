@@ -1,0 +1,5 @@
+Load clock|1|Screen,Screen,0,0;正常
+Load Black|1|Screen,Screen,0,0;淡入
+Wait 1000
+Load MidFace|1|Screen,Screen,0,0;淡入
+Play ghost.wav

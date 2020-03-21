@@ -1,0 +1,7 @@
+Load 73sign|1|Screen,Screen,0,0;正常
+Load 73sign-clear|1|Screen,Screen,0,0;淡入
+Wait 500
+Play stone5.wav
+Wait 500
+Load Black|1|Screen,Screen,0,0;正常
+Play ghost.wav

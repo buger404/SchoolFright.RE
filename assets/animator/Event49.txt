@@ -1,0 +1,8 @@
+Load School|1|Screen,Screen,0,0;正常
+Load ghost-dead|1|#Width/3,#Height,#Width/2,0;正常
+Play Water.wav
+Exit 2;正常
+Play ghost.wav
+Load School-light|1|Screen,Screen,0,0;淡入
+Wait 3000
+Load Black|1|Screen,Screen,0,0;淡入

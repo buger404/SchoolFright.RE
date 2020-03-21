@@ -1,0 +1,4 @@
+Load Black|1|Screen,Screen,0,0;Õý³£
+Play Knock.wav
+Play Knock.wav
+Play ghost.wav

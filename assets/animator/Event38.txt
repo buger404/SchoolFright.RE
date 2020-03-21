@@ -1,0 +1,15 @@
+Load Black|1|Screen,Screen,0,0;Õý³£
+Play stone4.wav
+Play Take.wav
+Play stone1.wav
+Play Water.wav
+Play stone3.wav
+Play Take.wav
+Play stone5.wav
+Play Water.wav
+Play stone2.wav
+Play Take.wav
+Play stone6.wav
+Play Water.wav
+Play GameOver.wav
+Load White|1|Screen,Screen,0,0;µ­³ö

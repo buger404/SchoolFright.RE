@@ -1,0 +1,2 @@
+Load ghost|1|#Width/3,#Height,#Width/3,0;Õý³£
+Play ghost.wav

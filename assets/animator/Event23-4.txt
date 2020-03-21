@@ -1,0 +1,6 @@
+Load 75sign|1|Screen,Screen,0,0;正常
+Load Classroom|1|Screen,Screen,0,0;淡入
+Wait 1000
+Load Classroom-Boom|1|Screen,Screen,0,0;正常
+Play Powerup.wav
+Load Black|1|Screen,Screen,0,0;淡入

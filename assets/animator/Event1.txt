@@ -1,0 +1,16 @@
+SetBackColor 0,0,0
+Load Event1Back|1|Screen,Screen,0,0;正常
+Load Black|1|Screen,Screen,0,0;淡入
+Play grass1.wav
+Play grass4.wav
+Play grass6.wav
+Play grass2.wav
+Play grass3.wav
+Play grass5.wav
+Play grass6.wav
+Play grass3.wav
+Play grass4.wav
+Play grass5.wav
+Play grass2.wav
+Play grass1.wav
+Load SchoolGate|1|Screen,Screen,0,0;淡入
